@@ -7,7 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/springmicroservices/petstore-config
-          
+
 # While in development mode, you can configure the config server to pick up configuration files from
 # the file system
         
